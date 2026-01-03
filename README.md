@@ -1,15 +1,6 @@
-### Hi there 👋
+### Hi there, I’m Rafael 👋
 
-
-Hi, I’m Rafael Panisset, Software Engineer at PortalGov
-
-About me 👨🏻‍💻:
-
-- 🔭 I’m currently working on backend projects 
-- 🌱 I’m currently learning about Cloud Computing and Machine Learning 
-- 💬 I’m interest in Software Engineering topics, Artificial Intelligence, Algorithms, and Data Structures
-- 📫 How to reach me: rafaelpanissetmt@gmail.com
-
+How to reach me: rafaelpanissetmt@gmail.com
   
 <div>
   <a href="https://github.com/RafaelPanisset"></a>
